@@ -1,0 +1,24 @@
+# Build artifacts
+bin/
+build/
+*.o
+*.out
+a.out
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile.cmake
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Tooling / assistant / local-only
+.claude/
+.claude/**
+scratchpad/
+*.log
+*.tmp
