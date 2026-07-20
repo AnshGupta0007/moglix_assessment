@@ -7,7 +7,7 @@ A clean, production-quality C++17 solution to the classic *Longest Valid
 Parentheses* problem — solved three different ways, verified exhaustively, and
 wired up with a CLI, a zero-dependency test suite, and continuous integration.
 
-[![CI](https://github.com/OWNER/REPO/actions/workflows/ci.yml/badge.svg)](https://github.com/OWNER/REPO/actions/workflows/ci.yml)
+[![CI](https://github.com/AnshGupta0007/moglix_assessment/actions/workflows/ci.yml/badgesvg)](https://github.com/AnshGupta0007/moglix_assessment/actions/workflows/ci.yml)
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
